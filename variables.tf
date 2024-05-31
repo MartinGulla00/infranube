@@ -7,7 +7,7 @@ variable "aws_region" {
 variable "project_name" {
   description = "Infra en Nube - Martin Gulla - Joaquin Sommer"
   type        = string
-  default     = "obligatorio-2"
+  default     = "obligatorio-2-gulla"
 }
 
 variable "notification_email" {
